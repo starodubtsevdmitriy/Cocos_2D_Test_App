@@ -9,11 +9,11 @@
          continueAfterRunningActions = "No"
          isPathRelative = "1"
          filePath = "Cocos2DTestApp/HelloWorldLayer.m"
-         timestampString = "355258140.86417"
+         timestampString = "355586567.934872"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "77"
-         endingLineNumber = "77"
+         startingLineNumber = "76"
+         endingLineNumber = "76"
          landmarkName = "-init"
          landmarkType = "5">
       </FileBreakpoint>
@@ -23,11 +23,11 @@
          continueAfterRunningActions = "No"
          isPathRelative = "1"
          filePath = "Cocos2DTestApp/HelloWorldLayer.m"
-         timestampString = "355258140.86417"
+         timestampString = "355586567.934872"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "197"
-         endingLineNumber = "197"
+         startingLineNumber = "193"
+         endingLineNumber = "193"
          landmarkName = "-ccTouchesEnded:withEvent:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -37,16 +37,16 @@
          continueAfterRunningActions = "No"
          isPathRelative = "1"
          filePath = "Cocos2DTestApp/HelloWorldLayer.m"
-         timestampString = "355258140.86417"
+         timestampString = "355586567.934872"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "91"
-         endingLineNumber = "91"
-         landmarkName = "-init"
+         startingLineNumber = "88"
+         endingLineNumber = "88"
+         landmarkName = "-tickCountdown:"
          landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
-         shouldBeEnabled = "Yes"
+         shouldBeEnabled = "No"
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          isPathRelative = "1"
@@ -70,8 +70,8 @@
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "21"
          endingLineNumber = "21"
-         landmarkName = "scoreLabel"
-         landmarkType = "19">
+         landmarkName = "+scene"
+         landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "No"
@@ -79,11 +79,11 @@
          continueAfterRunningActions = "No"
          isPathRelative = "1"
          filePath = "Cocos2DTestApp/HelloWorldLayer.m"
-         timestampString = "355258140.86417"
+         timestampString = "355586567.934872"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "101"
-         endingLineNumber = "101"
+         startingLineNumber = "93"
+         endingLineNumber = "93"
          landmarkName = "-tickCountdown:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -93,11 +93,11 @@
          continueAfterRunningActions = "No"
          isPathRelative = "1"
          filePath = "Cocos2DTestApp/NextLevelScene.m"
-         timestampString = "355188124.854868"
+         timestampString = "355327205.493042"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "36"
-         endingLineNumber = "36"
+         startingLineNumber = "35"
+         endingLineNumber = "35"
          landmarkName = "-init"
          landmarkType = "5">
       </FileBreakpoint>
@@ -107,7 +107,49 @@
          continueAfterRunningActions = "No"
          isPathRelative = "1"
          filePath = "Cocos2DTestApp/NextLevelScene.m"
-         timestampString = "355188124.854868"
+         timestampString = "355327205.493042"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "41"
+         endingLineNumber = "41"
+         landmarkName = "-init"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "Cocos2DTestApp/NextLevelScene.m"
+         timestampString = "355327205.493042"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "43"
+         endingLineNumber = "43"
+         landmarkName = "-init"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "Cocos2DTestApp/HelloWorldLayer.m"
+         timestampString = "355586567.934872"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "97"
+         endingLineNumber = "97"
+         landmarkName = "-tickCountdown:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "Cocos2DTestApp/NextLevelScene.m"
+         timestampString = "355327205.493042"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "42"
@@ -121,7 +163,7 @@
          continueAfterRunningActions = "No"
          isPathRelative = "1"
          filePath = "Cocos2DTestApp/NextLevelScene.m"
-         timestampString = "355188124.854868"
+         timestampString = "355327205.493042"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "44"
@@ -135,35 +177,7 @@
          continueAfterRunningActions = "No"
          isPathRelative = "1"
          filePath = "Cocos2DTestApp/HelloWorldLayer.m"
-         timestampString = "355258140.86417"
-         startingColumnNumber = "9223372036854775807"
-         endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "105"
-         endingLineNumber = "105"
-         landmarkName = "-tickCountdown:"
-         landmarkType = "5">
-      </FileBreakpoint>
-      <FileBreakpoint
-         shouldBeEnabled = "No"
-         ignoreCount = "0"
-         continueAfterRunningActions = "No"
-         isPathRelative = "1"
-         filePath = "Cocos2DTestApp/NextLevelScene.m"
-         timestampString = "355188124.854868"
-         startingColumnNumber = "9223372036854775807"
-         endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "43"
-         endingLineNumber = "43"
-         landmarkName = "-init"
-         landmarkType = "5">
-      </FileBreakpoint>
-      <FileBreakpoint
-         shouldBeEnabled = "No"
-         ignoreCount = "0"
-         continueAfterRunningActions = "No"
-         isPathRelative = "1"
-         filePath = "Cocos2DTestApp/NextLevelScene.m"
-         timestampString = "355188124.854868"
+         timestampString = "355586567.934872"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "45"
@@ -177,25 +191,11 @@
          continueAfterRunningActions = "No"
          isPathRelative = "1"
          filePath = "Cocos2DTestApp/HelloWorldLayer.m"
-         timestampString = "355190196.782757"
+         timestampString = "355586567.934872"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "42"
-         endingLineNumber = "42"
-         landmarkName = "-init"
-         landmarkType = "5">
-      </FileBreakpoint>
-      <FileBreakpoint
-         shouldBeEnabled = "No"
-         ignoreCount = "0"
-         continueAfterRunningActions = "No"
-         isPathRelative = "1"
-         filePath = "Cocos2DTestApp/HelloWorldLayer.m"
-         timestampString = "355258140.86417"
-         startingColumnNumber = "9223372036854775807"
-         endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "106"
-         endingLineNumber = "106"
+         startingLineNumber = "98"
+         endingLineNumber = "98"
          landmarkName = "-tickCountdown:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -205,11 +205,11 @@
          continueAfterRunningActions = "No"
          isPathRelative = "1"
          filePath = "Cocos2DTestApp/HelloWorldLayer.m"
-         timestampString = "355258140.86417"
+         timestampString = "355586567.934872"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "102"
-         endingLineNumber = "102"
+         startingLineNumber = "94"
+         endingLineNumber = "94"
          landmarkName = "-tickCountdown:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -233,11 +233,11 @@
          continueAfterRunningActions = "No"
          isPathRelative = "1"
          filePath = "Cocos2DTestApp/HelloWorldLayer.m"
-         timestampString = "355250571.629438"
+         timestampString = "355586567.934872"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "44"
-         endingLineNumber = "44"
+         startingLineNumber = "47"
+         endingLineNumber = "47"
          landmarkName = "-init"
          landmarkType = "5">
       </FileBreakpoint>
@@ -247,13 +247,27 @@
          continueAfterRunningActions = "No"
          isPathRelative = "1"
          filePath = "Cocos2DTestApp/HelloWorldLayer.m"
-         timestampString = "355258140.86417"
+         timestampString = "355586567.934872"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "83"
+         endingLineNumber = "83"
+         landmarkName = "-init"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "Cocos2DTestApp/HelloWorldLayer.m"
+         timestampString = "355586567.934872"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "84"
          endingLineNumber = "84"
-         landmarkName = "-init"
-         landmarkType = "5">
+         landmarkName = "@implementation HelloWorldLayer"
+         landmarkType = "3">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "No"
@@ -261,12 +275,12 @@
          continueAfterRunningActions = "No"
          isPathRelative = "1"
          filePath = "Cocos2DTestApp/HelloWorldLayer.m"
-         timestampString = "355258140.86417"
+         timestampString = "355586567.934872"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "85"
          endingLineNumber = "85"
-         landmarkName = "-init"
+         landmarkName = "-tickCountdown:"
          landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
@@ -275,12 +289,12 @@
          continueAfterRunningActions = "No"
          isPathRelative = "1"
          filePath = "Cocos2DTestApp/HelloWorldLayer.m"
-         timestampString = "355258140.86417"
+         timestampString = "355586567.934872"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "86"
-         endingLineNumber = "86"
-         landmarkName = "-init"
+         startingLineNumber = "253"
+         endingLineNumber = "253"
+         landmarkName = "-dealloc"
          landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
@@ -289,25 +303,11 @@
          continueAfterRunningActions = "No"
          isPathRelative = "1"
          filePath = "Cocos2DTestApp/HelloWorldLayer.m"
-         timestampString = "355258140.86417"
+         timestampString = "355586567.934872"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "266"
-         endingLineNumber = "266"
-         landmarkName = "-update:"
-         landmarkType = "5">
-      </FileBreakpoint>
-      <FileBreakpoint
-         shouldBeEnabled = "No"
-         ignoreCount = "0"
-         continueAfterRunningActions = "No"
-         isPathRelative = "1"
-         filePath = "Cocos2DTestApp/HelloWorldLayer.m"
-         timestampString = "355258140.86417"
-         startingColumnNumber = "9223372036854775807"
-         endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "153"
-         endingLineNumber = "153"
+         startingLineNumber = "146"
+         endingLineNumber = "146"
          landmarkName = "-spriteMoveFinished:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -317,11 +317,11 @@
          continueAfterRunningActions = "No"
          isPathRelative = "1"
          filePath = "Cocos2DTestApp/HelloWorldLayer.m"
-         timestampString = "355258140.86417"
+         timestampString = "355586567.934872"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "156"
-         endingLineNumber = "156"
+         startingLineNumber = "149"
+         endingLineNumber = "149"
          landmarkName = "-spriteMoveFinished:"
          landmarkType = "5">
       </FileBreakpoint>

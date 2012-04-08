@@ -13,13 +13,17 @@
     CCLabelTTF *_label;
     HelloWorldLayer *controller;
 }
+
 @property (nonatomic, retain) CCLabelTTF *label;
 @property (nonatomic, retain) HelloWorldLayer *controller;
+
 @end
 
 @interface NextLevelScene : CCScene {
     NextLevelLayer *_layer;
 
 }
+
 @property (nonatomic, retain) NextLevelLayer *layer;
+
 @end

@@ -15,7 +15,7 @@
     NSMutableArray *_projectiles;
     NSMutableArray *_targets;
     int _projectilesDestroyed;
-    int lifes;
+    int lives;
     int levelNumber;
     CCLabelAtlas *scoreLabel;
     CCSprite *lifeico;

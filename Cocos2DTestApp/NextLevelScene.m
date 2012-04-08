@@ -13,7 +13,6 @@
 @synthesize layer = _layer;
 
 - (id)init {
-    
     if ((self = [super init])) {
         self.layer = [NextLevelLayer node];
         [self addChild:_layer];
