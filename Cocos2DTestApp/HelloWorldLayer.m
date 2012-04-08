@@ -5,6 +5,7 @@
 //  Created by Dmitriy Starodubtsev on 03.04.12.
 //  Copyright __MyCompanyName__ 2012. All rights reserved.
 // Import the interfaces
+
 #import "HelloWorldLayer.h"
 #import "SimpleAudioEngine.h"
 #import "GameOverScene.h"
